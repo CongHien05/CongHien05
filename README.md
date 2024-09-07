@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @CongHien05
-- 👀 I’m interested in Web Design
+- 👀 I’m interested in I am interested in lines of code, it urges me to learn to the end every time I see it.
 - 🌱 I’m currently learning Basic Skill in Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: phamconghien18@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: you can call me lumberjack
 - ⚡ Fun fact: Im obsessed with calisthenic
 
 <!---
