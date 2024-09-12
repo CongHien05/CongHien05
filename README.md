@@ -2,7 +2,7 @@
 - 👀 I’m interested in lines of code, it urges me to learn to the end every time I see it.
 - 🌱 I’m currently learning Basic Skill in Development
 - 📫 How to reach me: phamconghien18@gmail.com
-- 😄 Pronouns: you can call me lumberjack
+- 😄 you can call me lumberjack
 - ⚡ Fun fact: Im obsessed with calisthenic
 
 <!---
