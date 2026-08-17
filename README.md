@@ -1,11 +1,15 @@
-- 👋 Hi, I’m @CongHien05
-- 👀 I’m interested in lines of code, it urges me to learn to the end every time I see it.
-- 🌱 I’m currently learning Basic Skill in Development
-- 📫 How to reach me: phamconghien18@gmail.com
-- 😄 you can call me lumberjack
-- ⚡ Fun fact: Im obsessed with calisthenic
+# Hey, I'm Cong Hien 👋
 
-<!---
-CongHien05/CongHien05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> I don't just write code.
+> I like finding out how far I can take it.
+
+* 💻 **Currently:** Building things, breaking things, fixing them again.
+* 🌱 **Learning:** Development fundamentals & whatever makes me curious.
+* 🧠 **Mindset:** If I don't understand it, I'm not done yet.
+* 🪵 **Call me:** `lumberjack`
+* ⚡ **Outside the code:** Calisthenics, because apparently debugging wasn't enough pain.
+* 📫 **Reach me:** [phamconghien18@gmail.com](mailto:phamconghien18@gmail.com)
+
+```text
+code → break → debug → understand → repeat
+```
