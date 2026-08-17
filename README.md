@@ -1,15 +1,18 @@
-# Hey, I'm Cong Hien 👋
+# 👋 I'm Cong Hien
 
-> I don't just write code.
-> I like finding out how far I can take it.
+### `Curiosity → Code → Chaos → Understanding`
 
-* 💻 **Currently:** Building things, breaking things, fixing them again.
-* 🌱 **Learning:** Development fundamentals & whatever makes me curious.
-* 🧠 **Mindset:** If I don't understand it, I'm not done yet.
-* 🪵 **Call me:** `lumberjack`
-* ⚡ **Outside the code:** Calisthenics, because apparently debugging wasn't enough pain.
-* 📫 **Reach me:** [phamconghien18@gmail.com](mailto:phamconghien18@gmail.com)
+I see a line of code I don't understand,
+and suddenly I have a problem I **need** to solve.
 
-```text
-code → break → debug → understand → repeat
-```
+* 💻 Learning **software development**
+* 🧠 Interested in understanding things, not just making them work
+* 🛠️ Building, breaking, debugging, repeating
+* 🪵 Known as **lumberjack**
+* ⚡ Calisthenics keeps me away from the keyboard sometimes
+* 📫 `phamconghien18@gmail.com`
+
+---
+
+**I don't know everything.
+That's exactly why I'm still here.**
